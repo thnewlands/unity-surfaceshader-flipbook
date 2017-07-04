@@ -1,4 +1,4 @@
-# unity-surfaceshader-flipbook
+# Flipbook Surface Shader for Unity
 
 ![](http://i.imgur.com/ezGY1yf.gif)
 
