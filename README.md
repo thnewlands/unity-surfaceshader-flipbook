@@ -2,7 +2,7 @@
 
 ![](http://i.imgur.com/ezGY1yf.gif)
 
-This is a surface shader solution for flipbook animation in Unity. I've been using this so that I can add shadows to flipbook animations without going through Unity's sprite system. 
+This is a surface shader solution for flipbook animation with spritesheets in Unity. I've been using this so that I can add shadows to flipbook animations without going through Unity's sprite system. 
 
 Setup is relatively simple:
 1. Create a spritesheet with even spacing between sprites. For my spritesheets I've been using: https://www.johnwordsworth.com/projects/photoshop-sprite-sheet-generator-script/ and generating source sprite images in 3d Studio MAX. This makes it especially easy to get normal information for renderings. 
