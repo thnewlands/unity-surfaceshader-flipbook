@@ -71,7 +71,7 @@
 
 			fixed4 c = tex2D(_MainTex, spriteUV) * _Color;
 
-			o.Normal = tex2D(_NormalTex, spriteUV);
+			o.Normal = UnpackNormal(tex2D(_NormalTex, spriteUV));
 			o.Metallic = _Metallic;
 			o.Smoothness = _Glossiness;
 			o.Albedo = c.rgb;
